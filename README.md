@@ -1,4 +1,4 @@
-Hi 👋 my name is Pietro Vival
+Hi , my name is Pietro Vival
 =============================
 
 Currently studying Computer Cience at Instituto Mauá de Tecnologia (IMT)
