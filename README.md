@@ -6,7 +6,7 @@ Currently studying Computer Cience at Instituto Mauá de Tecnologia (IMT)
 
 * 🌍  I'm based in São Paulo , Santo André
 * ✉️  You can contact me at [pivisoto10@gmail.com](mailto:pivisoto10@gmail.com)
-* 🧠  I'm currently learning VBA
+* 🧠  I'm currently learning MongoDB and Dart
 
 ### Skills
 
